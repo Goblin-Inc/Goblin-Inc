@@ -2,7 +2,7 @@
                                                                                                                                                                                         
 # Hey, I'm Goblin-Inc 👋                                                                                                                                                            
                                                                                                                                                                                         
-*Desktop & Linux Developer · Systems Tooling · Minecraft Forge Modding**                                                                                                           
+**Desktop & Linux Developer · Systems Tooling · Minecraft Forge Modding**                                                                                                           
   
 Building fast native-hybrid desktop apps, Wayland/Linux utilities, AI tools, and server/client game mods.
   
