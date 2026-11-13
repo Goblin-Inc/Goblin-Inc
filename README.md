@@ -41,5 +41,6 @@ Building fast native-hybrid desktop apps, Wayland/Linux utilities, AI tools, and
   <div align="center">
   
   *Always experimenting, shipping tools I actually use, and breaking things on Linux.*
+  *In Russian - (https://github.com/Goblin-Inc/Goblin-Inc/blob/main/README_Ru.md)*
   
   </div>
