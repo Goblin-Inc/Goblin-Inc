@@ -20,18 +20,12 @@ Building fast native-hybrid desktop apps, Wayland/Linux utilities, AI tools, and
   
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
-| [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Minimalist Dark Slate web browser with hardware-accelerated decoding (`VA-API` /
-`HEVC`), Cinema Mode & persistent sessions |
-| [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Instant `Alt+Space` desktop overlay for searching, previewing & copying images powered by a native
-`libfasi_core.so` engine |
-| [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract OCR` | Ultra-fast screen OCR translator rendered      
-directly over games, manga, videos & desktop apps |
-| [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Nostalgic AI messenger in early-2000s ICQ / WinXP aesthetic with custom AI personas & long-term  
-conversation memory |
-| [**RtCoD Races**](https://github.com/Goblin-Inc/RtCoD_races) | `Java` · `Minecraft Forge 1.20.1` | Global RPG mod featuring 20 unique races, real 3D model & hitbox scaling,      
-passive auras, and active combat abilities |
-| [**RtCoD Donate**](https://github.com/Goblin-Inc/RtCoD_Donate) | `Java` · `Minecraft Forge 1.20.1` | Server-side only interactive donate GUI, privilege system, `/kits` with      
-cooldowns & animated case roulette |
+| [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Minimalist Dark Slate web browser with hardware-accelerated decoding (`VA-API` / `HEVC`), Cinema Mode & persistent sessions |
+| [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Instant `Alt+Space` desktop overlay for searching, previewing & copying images powered by a native `libfasi_core.so` engine |
+| [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract OCR` | Ultra-fast screen OCR translator rendered directly over games, manga, videos & desktop apps |
+| [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Nostalgic AI messenger in early-2000s ICQ / WinXP aesthetic with custom AI personas & long-term conversation memory |
+| [**RtCoD Races**](https://github.com/Goblin-Inc/RtCoD_races) | `Java` · `Minecraft Forge 1.20.1` | Global RPG mod featuring 20 unique races, real 3D model & hitbox scaling, passive auras, and active combat abilities |
+| [**RtCoD Donate**](https://github.com/Goblin-Inc/RtCoD_Donate) | `Java` · `Minecraft Forge 1.20.1` | Server-side only interactive donate GUI, privilege system, `/kits` with cooldowns & animated case roulette |
   
 ---
   
