@@ -17,6 +17,7 @@
 | Направление | Проект | Стек | Что внутри |
 | :--- | :--- | :--- | :--- |
 | **`WEB · CANVAS`** | [**Project Atlas**](https://github.com/Goblin-Inc/Project-Atlas) · [Живая демка](https://goblin-inc.github.io/Project-Atlas/) | `JS` · `HTML5 Canvas` · `Python` | Интерактивная 60 FPS вселенная кода для локальных папок и GitHub-репо: золотые лучи зависимостей, 4 линзы (Blast Radius, Здоровье, Маршрут), `Ctrl+K` телепорт и экспорт SVG |
+| **`PRIVACY · WEB`** | [**SubGuard**](https://github.com/Goblin-Inc/SubGuard) · [Live Demo](https://goblin-inc.github.io/SubGuard/) | `Vanilla JS` · `PWA` · `CSP` | 100% локальный zero-upload детектор скрытых подписок и утечек (`CSV`/`PDF`/`Ctrl+V`): радар подорожаний и триал-ловушек, симулятор отмены, `.ics`-напоминания и экспорт чека в PNG/SVG |
 | **`AI · DEVTOOLS`** | [**PromptForge**](https://github.com/Goblin-Inc/PromptForge) | `Python` · `LLM Tooling` | Студия системных промптов и авто-деплоер скиллов в 1 клик для Ollama, Claude Code, Antigravity, Codex и Cursor |
 | **`C++ · GPU`** | [**Gob-Inc-shell**](https://github.com/Goblin-Inc/Gob-Inc-shell) | `C++17` · `GLFW 3.4` · `OpenGL` | Собственный GPU-ускоренный эмулятор терминала (`v2.0.0`) с нативной поддержкой Wayland и X11 |
 | **`RUST · OCR`** | [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract` | Сверхбыстрый экранный OCR + AI-переводчик поверх игр, манги и любых десктоп-приложений |
