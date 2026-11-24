@@ -27,7 +27,26 @@
 
 ---
 
-### `02 //` Core Stack & Focus
+### `02 //` Different Worlds, Different Aesthetics
+> Every project gets its own visual language — from 60 FPS cosmic graphs and C++ Wayland terminals to retro 2000s ICQ AI and RPG game systems.
+
+<p align="center">
+  <img src="assets/worlds-showcase.svg" alt="Different Worlds Showcase — Cosmos, Systems, Retro AI, RPG GameDev" width="100%" />
+</p>
+
+---
+
+### `03 //` Core Stack & Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-74c7ec?style=flat-square&logo=python&logoColor=white&labelColor=0f121a" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-17-e63946?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0f121a" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-Tauri_v2-fab387?style=flat-square&logo=rust&logoColor=white&labelColor=0f121a" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-Canvas_2D-facc15?style=flat-square&logo=javascript&logoColor=black&labelColor=0f121a" alt="JS" />
+  <img src="https://img.shields.io/badge/Java-Forge_1.20.1-52b788?style=flat-square&logo=openjdk&logoColor=white&labelColor=0f121a" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-AwesomeWM-b4befe?style=flat-square&logo=lua&logoColor=white&labelColor=0f121a" alt="Lua" />
+  <img src="https://img.shields.io/badge/Linux-Parrot_·_Niri-2dd4bf?style=flat-square&logo=linux&logoColor=white&labelColor=0f121a" alt="Linux" />
+</p>
 
 ```text
 ├── Systems & Native   C++17 · Rust · GLFW/OpenGL · shared libraries (.so) · POSIX/PTY

@@ -27,7 +27,26 @@
 
 ---
 
-### `02 //` Основной стек и фокус
+### `02 //` Разные миры — разные стили
+> Каждый проект получает собственный визуальный язык: от 60 FPS космических графов и C++ Wayland-терминалов до ретро-ICQ 2000-х и RPG-механик.
+
+<p align="center">
+  <img src="assets/worlds-showcase.svg" alt="Разные миры — Космос, Системка, Ретро AI, RPG" width="100%" />
+</p>
+
+---
+
+### `03 //` Основной стек и фокус
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-74c7ec?style=flat-square&logo=python&logoColor=white&labelColor=0f121a" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-17-e63946?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0f121a" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-Tauri_v2-fab387?style=flat-square&logo=rust&logoColor=white&labelColor=0f121a" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-Canvas_2D-facc15?style=flat-square&logo=javascript&logoColor=black&labelColor=0f121a" alt="JS" />
+  <img src="https://img.shields.io/badge/Java-Forge_1.20.1-52b788?style=flat-square&logo=openjdk&logoColor=white&labelColor=0f121a" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-AwesomeWM-b4befe?style=flat-square&logo=lua&logoColor=white&labelColor=0f121a" alt="Lua" />
+  <img src="https://img.shields.io/badge/Linux-Parrot_·_Niri-2dd4bf?style=flat-square&logo=linux&logoColor=white&labelColor=0f121a" alt="Linux" />
+</p>
 
 ```text
 ├── Системка и Натив   C++17 · Rust · GLFW/OpenGL · shared-библиотеки (.so) · POSIX/PTY
