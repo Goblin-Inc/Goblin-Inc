@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow-red" cx="12%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#e63946" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#090b10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-lav" cx="88%" cy="85%" r="55%">
+      <stop offset="0%" stop-color="#b4befe" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#090b10" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#e4e6f8"/>
+      <stop offset="100%" stop-color="#e63946"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal Window Frame -->
+  <rect width="1200" height="310" rx="14" fill="#090b10"/>
+  <rect width="1200" height="310" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="310" rx="14" fill="url(#glow-red)"/>
+  <rect width="1200" height="310" rx="14" fill="url(#glow-lav)"/>
+  <rect x="1" y="1" width="1198" height="308" rx="13" fill="none" stroke="#e63946" stroke-opacity="0.28"/>
+
+  <!-- Top Bar -->
+  <rect x="1" y="1" width="1198" height="34" rx="13" fill="#0f121a"/>
+  <line x1="1" y1="35" x2="1199" y2="35" stroke="#ffffff" stroke-opacity="0.07"/>
+  <circle cx="24" cy="18" r="5" fill="#e63946"/>
+  <circle cx="42" cy="18" r="5" fill="#facc15"/>
+  <circle cx="60" cy="18" r="5" fill="#52b788"/>
+  <text x="600" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#72778c">goblin-inc@linux — ~/workspace</text>
+  <text x="1176" y="22" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#52b788">● ONLINE</text>
+
+  <!-- Left Identity Block -->
+  <g transform="translate(52, 86)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="0" y="0" font-size="13" fill="#e63946">❯ <tspan fill="#72778c">./whoami --full</tspan></text>
+    <text x="0" y="58" font-size="54" font-weight="800" letter-spacing="1.5" fill="url(#name-grad)">GOBLIN-INC</text>
+    <text x="2" y="92" font-size="16" fill="#cdd6f4">Systems · Desktop · AI Tooling · Graphics · Linux</text>
+    <text x="2" y="118" font-size="13" fill="#7c8299">Building fast native apps, visual dev-tools, Wayland/X11 environments &amp; game mods.</text>
+
+    <!-- Minimalist Domain Accents -->
+    <g transform="translate(0, 142)" font-size="11.5" font-weight="600">
+      <rect x="0" y="0" width="96" height="26" rx="6" fill="#141824" stroke="#e63946" stroke-opacity="0.45"/>
+      <text x="48" y="17" text-anchor="middle" fill="#ff8fa3">C++ / GPU</text>
+
+      <rect x="106" y="0" width="110" height="26" rx="6" fill="#141824" stroke="#facc15" stroke-opacity="0.45"/>
+      <text x="161" y="17" text-anchor="middle" fill="#fef08a">Canvas / Web</text>
+
+      <rect x="226" y="0" width="104" height="26" rx="6" fill="#141824" stroke="#b4befe" stroke-opacity="0.45"/>
+      <text x="278" y="17" text-anchor="middle" fill="#cdd6f4">Python / AI</text>
+
+      <rect x="340" y="0" width="108" height="26" rx="6" fill="#141824" stroke="#2dd4bf" stroke-opacity="0.45"/>
+      <text x="394" y="17" text-anchor="middle" fill="#99f6e4">Rust / Tauri</text>
+
+      <rect x="458" y="0" width="108" height="26" rx="6" fill="#141824" stroke="#52b788" stroke-opacity="0.45"/>
+      <text x="512" y="17" text-anchor="middle" fill="#a6e3a1">Java / Forge</text>
+    </g>
+  </g>
+
+  <!-- Right Minimalist Terminal Telemetry Card -->
+  <g transform="translate(730, 62)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <rect x="0" y="0" width="420" height="214" rx="10" fill="#0d1018" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="18" y="28" font-size="12" fill="#72778c">$ cat ~/.featured.manifest</text>
+    <line x1="18" y1="38" x2="402" y2="38" stroke="#ffffff" stroke-opacity="0.07"/>
+
+    <g font-size="12.5" transform="translate(18, 64)">
+      <text y="0"><tspan fill="#facc15" font-weight="700">ATLAS  </tspan><tspan fill="#52576b">│ </tspan><tspan fill="#e4e6f8">60 FPS codebase universe</tspan></text>
+      <text y="28"><tspan fill="#b4befe" font-weight="700">PROMPT </tspan><tspan fill="#52576b">│ </tspan><tspan fill="#e4e6f8">AI agent prompt studio</tspan></text>
+      <text y="56"><tspan fill="#e63946" font-weight="700">SHELL  </tspan><tspan fill="#52576b">│ </tspan><tspan fill="#e4e6f8">C++ OpenGL Wayland term</tspan></text>
+      <text y="84"><tspan fill="#2dd4bf" font-weight="700">OCR    </tspan><tspan fill="#52576b">│ </tspan><tspan fill="#e4e6f8">Rust + Tauri screen layer</tspan></text>
+      <text y="112"><tspan fill="#52b788" font-weight="700">FASI   </tspan><tspan fill="#52576b">│ </tspan><tspan fill="#e4e6f8">PyQt6 + C++17 image core</tspan></text>
+      <text y="138" font-size="11.5" fill="#72778c">env: Parrot OS · Niri · AwesomeWM ▌</text>
+    </g>
+  </g>
+</svg>

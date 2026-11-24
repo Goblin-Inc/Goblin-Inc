@@ -1,46 +1,43 @@
-<div align="center">
-                                                                                                                                                                                        
-# Hey, I'm Goblin-Inc 👋                                                                                                                                                            
-                                                                                                                                                                                        
-**Desktop & Linux Developer · Systems Tooling · Minecraft Forge Modding**                                                                                                           
-  
-Building fast native-hybrid desktop apps, Wayland/Linux utilities, AI tools, and server/client game mods.
-  
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)                                              
-[![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)                                                        
-[![Rust](https://img.shields.io/badge/Rust-1.77+-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)                                                 
-[![Java](https://img.shields.io/badge/Java-Forge_1.20.1-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://minecraftforge.net/)                                      
-[![Linux](https://img.shields.io/badge/Linux-Arch_/_Wayland-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)                                     
-                                                                                                                                                                                        
-</div>
-  
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Goblin-Inc Terminal Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://goblin-inc.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-goblin--inc.github.io-e63946?style=for-the-badge&labelColor=0b0d14" alt="Portfolio" /></a>
+  <a href="https://goblin-inc.github.io/Project-Atlas/"><img src="https://img.shields.io/badge/✦_Live_Demo-Project_Atlas-facc15?style=for-the-badge&labelColor=0b0d14" alt="Project Atlas Demo" /></a>
+  <a href="https://t.me/FxtTUNE"><img src="https://img.shields.io/badge/Telegram-@FxtTUNE-b4befe?style=for-the-badge&labelColor=0b0d14" alt="Telegram" /></a>
+  <a href="mailto:onosov.ferg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-52b788?style=for-the-badge&labelColor=0b0d14" alt="Email" /></a>
+  <a href="README_Ru.md"><img src="https://img.shields.io/badge/🇷🇺_RU-Версия_на_русском-2dd4bf?style=for-the-badge&labelColor=0b0d14" alt="Russian README" /></a>
+</p>
+
 ---
-  
-### 🚀 Featured Projects                                                                                                                                                            
-  
-| Project | Stack | What it does |
-| :--- | :--- | :--- |
-| [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Minimalist Dark Slate web browser with hardware-accelerated decoding (`VA-API` / `HEVC`), Cinema Mode & persistent sessions |
-| [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Instant `Alt+Space` desktop overlay for searching, previewing & copying images powered by a native `libfasi_core.so` engine |
-| [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract OCR` | Ultra-fast screen OCR translator rendered directly over games, manga, videos & desktop apps |
-| [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Nostalgic AI messenger in early-2000s ICQ / WinXP aesthetic with custom AI personas & long-term conversation memory |
-| [**RtCoD Races**](https://github.com/Goblin-Inc/RtCoD_races) | `Java` · `Minecraft Forge 1.20.1` | Global RPG mod featuring 20 unique races, real 3D model & hitbox scaling, passive auras, and active combat abilities |
-| [**RtCoD Donate**](https://github.com/Goblin-Inc/RtCoD_Donate) | `Java` · `Minecraft Forge 1.20.1` | Server-side only interactive donate GUI, privilege system, `/kits` with cooldowns & animated case roulette |
-  
+
+### `01 //` Selected Works — Across Domains
+
+| Domain | Project | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **`WEB · CANVAS`** | [**Project Atlas**](https://github.com/Goblin-Inc/Project-Atlas) · [Live Demo](https://goblin-inc.github.io/Project-Atlas/) | `JS` · `HTML5 Canvas` · `Python` | Interactive 60 FPS constellation map of any local folder or GitHub repo: golden dependency rays, 4 lenses (Blast Radius, Health, Route), `Ctrl+K` teleport & vector SVG export |
+| **`AI · DEVTOOLS`** | [**PromptForge**](https://github.com/Goblin-Inc/PromptForge) | `Python` · `LLM Tooling` | System prompt studio & one-click skill auto-deployer for Ollama, Claude Code, Antigravity, Codex & Cursor |
+| **`C++ · GPU`** | [**Gob-Inc-shell**](https://github.com/Goblin-Inc/Gob-Inc-shell) | `C++17` · `GLFW 3.4` · `OpenGL` | Custom hardware-accelerated terminal emulator (`v2.0.0`) with native Wayland & X11 support |
+| **`RUST · OCR`** | [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract` | Ultra-fast live screen OCR & AI translation overlay rendered directly over games, manga & desktop apps |
+| **`NATIVE · UI`** | [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Instant `Alt+Space` desktop overlay for searching, previewing & copying images powered by a native `libfasi_core.so` engine |
+| **`BROWSER`** | [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Minimalist Dark Slate web browser with hardware video decoding (`H.264/AAC`), Cinema Mode & persistent sessions |
+| **`RETRO · AI`** | [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Nostalgic early-2000s ICQ / WinXP AI messenger with custom personas and long-term conversation memory |
+| **`GAMEDEV`** | [**RtCoD Mods**](https://github.com/RtCoD-Stuff) | `Java` · `Forge 1.20.1` | Full Minecraft RPG ecosystem: 20 races with real 3D model/hitbox scaling, classes, blessings & server-side donate GUI |
+
 ---
-  
-### 🛠️ Tech & Focus                                                                                                                                                                 
-  
-* **Desktop & UI:** PySide6 / PyQt6, QtWebEngine, QML / Quickshell, Tauri v2, QSS styling
-* **Performance & Native:** C++17 shared libraries (`ctypes`), Rust system utilities, hardware video decoding
-* **Linux & WMs:** Arch Linux, Hyprland, Niri, custom shells, CLI & network tooling
-* **Game Modding:** Minecraft Forge 1.20.1 (both full client-server RPG mechanics and pure server-side systems)
-  
-  ---
-  
-  <div align="center">
-  
-  *Always experimenting, shipping tools I actually use, and breaking things on Linux.*
-  *In Russian - (https://github.com/Goblin-Inc/Goblin-Inc/blob/main/README_Ru.md)*
-  
-  </div>
+
+### `02 //` Core Stack & Focus
+
+```text
+├── Systems & Native   C++17 · Rust · GLFW/OpenGL · shared libraries (.so) · POSIX/PTY
+├── Web & Visuals      Vanilla ES Modules · HTML5 Canvas 2D · SVG · Static Code Analysis
+├── Desktop & AI       Python 3 · PyQt6/PySide6 · Tauri v2 · AI Agent Workflows · OCR
+└── Linux & Craft      Parrot OS · Niri (Wayland) · AwesomeWM (Lua) · CLI & Net Tooling
+```
+
+---
+
+<p align="center">
+  <sub><code>// shipping practical tools, breaking Linux environments, and building things people actually want to click.</code></sub>
+</p>

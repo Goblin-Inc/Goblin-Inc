@@ -1,45 +1,43 @@
-  <div align="center">                                                                                                                                                                
-                                                                                                                                                                                        
-  # Привет, я Goblin-Inc 👋                                                                                                                                                           
-                                                                                                                                                                                        
-  **Десктоп и Linux-разработка · Системные утилиты · Моддинг Minecraft Forge**
-  
-  Делаю быстрые гибридные десктоп-приложения, утилиты под Wayland/Linux, AI-инструменты и игровые моды.                                                                               
-                                                                                                                                                                                        
-  [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)                                              
-  [![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)                                                        
-  [![Rust](https://img.shields.io/badge/Rust-1.77+-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)                                                 
-  [![Java](https://img.shields.io/badge/Java-Forge_1.20.1-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://minecraftforge.net/)                                      
-  [![Linux](https://img.shields.io/badge/Linux-Arch_/_Wayland-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)                                     
-                                                                                                                                                                                        
-  </div>                                                                                                                                                                              
-                                                                                                                                                                                        
-  ---
-  
-  ### 🚀 Избранные проекты                                                                                                                                                            
-  
-  | Проект | Стек | Что делает |
-  | :--- | :--- | :--- |
-  | [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Минималистичный веб-браузер в эстетике Dark Slate с аппаратным декодированием (`VA-API` / `HEVC`), Cinema Mode и персистентными сессиями |
-  | [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Молниеносный десктопный оверлей по `Alt+Space` для поиска, просмотра и копирования картинок с нативным ядром `libfasi_core.so` |
-  | [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract OCR` | Сверхбыстрый экранный OCR-переводчик поверх игр, манги, видео и любых приложений |
-  | [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Ностальгический AI-мессенджер в стиле ICQ 2003a / WinXP с кастомными AI-персонажами и долгосрочной памятью диалогов |
-  | [**RtCoD Races**](https://github.com/Goblin-Inc/RtCoD_races) | `Java` · `Minecraft Forge 1.20.1` | Глобальный RPG-мод на 20 уникальных рас, реальное 3D-масштабирование модели и хитбоксов, пассивные ауры и боевые способности |
-  | [**RtCoD Donate**](https://github.com/Goblin-Inc/RtCoD_Donate) | `Java` · `Minecraft Forge 1.20.1` | Полностью серверный мод на интерактивное донат-меню, привилегии, `/kits` с кулдаунами и анимированную рулетку кейсов |
-  
-  ---
-  
-  ### 🛠️ Стек и направления                                                                                                                                                           
-  
-  * **Десктоп и UI:** PySide6 / PyQt6, QtWebEngine, QML / Quickshell, Tauri v2, стилизация QSS
-  * **Производительность и натив:** библиотеки на C++17 (`ctypes`), системные утилиты на Rust, аппаратное декодирование видео
-  * **Linux и WM:** Arch Linux, Hyprland, Niri, кастомные панели и CLI/сетевые инструменты
-  * **Геймдев и моддинг:** Minecraft Forge 1.20.1 (как полноценные клиент-серверные RPG-механики, так и pure server-side системы)
-  
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Goblin-Inc Terminal Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://goblin-inc.github.io/"><img src="https://img.shields.io/badge/🌐_Портфолио-goblin--inc.github.io-e63946?style=for-the-badge&labelColor=0b0d14" alt="Портфолио" /></a>
+  <a href="https://goblin-inc.github.io/Project-Atlas/"><img src="https://img.shields.io/badge/✦_Демка-Project_Atlas-facc15?style=for-the-badge&labelColor=0b0d14" alt="Project Atlas Demo" /></a>
+  <a href="https://t.me/FxtTUNE"><img src="https://img.shields.io/badge/Telegram-@FxtTUNE-b4befe?style=for-the-badge&labelColor=0b0d14" alt="Telegram" /></a>
+  <a href="mailto:onosov.ferg@gmail.com"><img src="https://img.shields.io/badge/Email-Написать-52b788?style=for-the-badge&labelColor=0b0d14" alt="Email" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_EN-English_Version-2dd4bf?style=for-the-badge&labelColor=0b0d14" alt="English README" /></a>
+</p>
+
 ---
-  
-  <div align="center">
-  
-  *Постоянно экспериментирую, пилю инструменты, которыми пользуюсь сам, и ломаю Linux.*
-  
-  </div>
+
+### `01 //` Избранные проекты — разные направления
+
+| Направление | Проект | Стек | Что внутри |
+| :--- | :--- | :--- | :--- |
+| **`WEB · CANVAS`** | [**Project Atlas**](https://github.com/Goblin-Inc/Project-Atlas) · [Живая демка](https://goblin-inc.github.io/Project-Atlas/) | `JS` · `HTML5 Canvas` · `Python` | Интерактивная 60 FPS вселенная кода для локальных папок и GitHub-репо: золотые лучи зависимостей, 4 линзы (Blast Radius, Здоровье, Маршрут), `Ctrl+K` телепорт и экспорт SVG |
+| **`AI · DEVTOOLS`** | [**PromptForge**](https://github.com/Goblin-Inc/PromptForge) | `Python` · `LLM Tooling` | Студия системных промптов и авто-деплоер скиллов в 1 клик для Ollama, Claude Code, Antigravity, Codex и Cursor |
+| **`C++ · GPU`** | [**Gob-Inc-shell**](https://github.com/Goblin-Inc/Gob-Inc-shell) | `C++17` · `GLFW 3.4` · `OpenGL` | Собственный GPU-ускоренный эмулятор терминала (`v2.0.0`) с нативной поддержкой Wayland и X11 |
+| **`RUST · OCR`** | [**Screen Overlay Translator**](https://github.com/Goblin-Inc/screen-overlay-translator) | `Rust` · `Tauri v2` · `Tesseract` | Сверхбыстрый экранный OCR + AI-переводчик поверх игр, манги и любых десктоп-приложений |
+| **`NATIVE · UI`** | [**FaSI**](https://github.com/Goblin-Inc/FaSI) | `Python` · `PyQt6` · `C++17` | Мгновенный `Alt+Space` оверлей поиска и копирования изображений на базе нативного C++ ядра `libfasi_core.so` |
+| **`BROWSER`** | [**SlateBrow**](https://github.com/Goblin-Inc/SlateBrow) | `Python` · `PySide6` · `QtWebEngine` | Минималистичный тёмный браузер с аппаратным декодированием (`H.264/AAC`), Cinema Mode и сохранением сессий |
+| **`RETRO · AI`** | [**Aski-Online**](https://github.com/Goblin-Inc/Aski-Online) | `Python` · `AI` | Ностальгический AI-мессенджер в эстетике ICQ / WinXP 2000-х с кастомными персонами и долгой памятью |
+| **`GAMEDEV`** | [**RtCoD Mods**](https://github.com/RtCoD-Stuff) | `Java` · `Forge 1.20.1` | RPG-экосистема для Minecraft: 20 рас с реальным 3D-скейлингом моделей и хитбоксов, классы, благословения и серверный GUI |
+
+---
+
+### `02 //` Основной стек и фокус
+
+```text
+├── Системка и Натив   C++17 · Rust · GLFW/OpenGL · shared-библиотеки (.so) · POSIX/PTY
+├── Веб и Визуал       Vanilla ES Modules · HTML5 Canvas 2D · SVG · Статический анализ кода
+├── Десктоп и AI       Python 3 · PyQt6/PySide6 · Tauri v2 · AI-агенты · OCR
+└── Linux и Среда      Parrot OS · Niri (Wayland) · AwesomeWM (Lua) · CLI и сетевые тулзы
+```
+
+---
+
+<p align="center">
+  <sub><code>// делаю быстрые утилиты, собираю свои Linux-среды и выпускаю инструменты, которыми реально хочется пользоваться.</code></sub>
+</p>
