@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://goblin-inc.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-goblin--inc.github.io-e63946?style=for-the-badge&labelColor=0b0d14" alt="Portfolio" /></a>
-  <a href="https://goblin-inc.github.io/Project-Atlas/"><img src="https://img.shields.io/badge/✦_Live_Demo-Project_Atlas-facc15?style=for-the-badge&labelColor=0b0d14" alt="Project Atlas Demo" /></a>
   <a href="https://t.me/FxtTUNE"><img src="https://img.shields.io/badge/Telegram-@FxtTUNE-b4befe?style=for-the-badge&labelColor=0b0d14" alt="Telegram" /></a>
   <a href="mailto:onosov.ferg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-52b788?style=for-the-badge&labelColor=0b0d14" alt="Email" /></a>
   <a href="README_Ru.md"><img src="https://img.shields.io/badge/🇷🇺_RU-Версия_на_русском-2dd4bf?style=for-the-badge&labelColor=0b0d14" alt="Russian README" /></a>
