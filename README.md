@@ -16,6 +16,7 @@
 
 | Domain | Project | Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| **`APPSEC · HUB`** | [**SecDeck**](https://github.com/Goblin-Inc/SecDeck) | `Python` · `FastAPI` · `WebView` | Zero-cloud native Cybersecurity & AppSec desktop hub (Linux & Windows): NetRadar, OWASP CodeAudit, AI Log Sanitizer, HostAudit, WebProbe, CryptoDeck & SHA-256 `Inspect-Before-Run` GitHub plugins |
 | **`WEB · CANVAS`** | [**Project Atlas**](https://github.com/Goblin-Inc/Project-Atlas) · [Live Demo](https://goblin-inc.github.io/Project-Atlas/) | `JS` · `HTML5 Canvas` · `Python` | Interactive 60 FPS constellation map of any local folder or GitHub repo: golden dependency rays, 4 lenses (Blast Radius, Health, Route), `Ctrl+K` teleport & vector SVG export |
 | **`PRIVACY · WEB`** | [**SubGuard**](https://github.com/Goblin-Inc/SubGuard) · [Live Demo](https://goblin-inc.github.io/SubGuard/) | `Vanilla JS` · `PWA` · `CSP` | 100% client-side, zero-upload subscription & money-leak X-ray (CSV/PDF/Ctrl+V): price-hike & trial-trap radar, cancellation simulator, .ics reminders & PNG/SVG receipt export |
 | **`AI · DEVTOOLS`** | [**PromptForge**](https://github.com/Goblin-Inc/PromptForge) | `Python` · `LLM Tooling` | System prompt studio & one-click skill auto-deployer for Ollama, Claude Code, Antigravity, Codex & Cursor |
